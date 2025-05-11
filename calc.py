@@ -12,6 +12,7 @@ print(results1)
 # since whenever we get an input from the user, by default it is a string, so we need to convert it to an integer or float.
 
 # So we will use the int() function to convert the string to an integer, whole number.
+
 # We will also use the float() function to convert the string to a float, decimal number.
 num1 = input("Enter a number: ")
 num2 = input("Enter another number: ")
