@@ -1,5 +1,5 @@
 name = input("Enter your name: ")
-university_name = input("Enter your unersity name: ")
+university_name = input("Enter your university name: ")
 year_of_study = input("Enter your year of study: ")
 reg_no = input("Enter you registartion number: ")
 course_name = input("Enter your course name: ")
